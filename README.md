@@ -6,4 +6,4 @@ This website is built using HTML, CSS, and JavaScript.
 
 ## Visit the Site
 
-You can visit the site here: [SKywings](https://web-site-s-kywings.vercel.app/)
+You can visit the site here: [SKywings](https://web-site-skywings.vercel.app/)
